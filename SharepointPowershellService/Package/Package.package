@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="cff302ff-7dea-4358-bc5a-7c8838feffdd" solutionId="cff302ff-7dea-4358-bc5a-7c8838feffdd" resetWebServer="false" sharePointProductVersion="19.0" name="SharepointPowershellService" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="20db04be-52f7-411d-9d3f-c6ecd65f947d" />
+    <projectItemReference itemId="2c8e79ff-9292-45b0-bc65-988228a1a4c1" />
+  </projectItems>
+</package>
